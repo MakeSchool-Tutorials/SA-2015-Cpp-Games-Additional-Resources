@@ -22,7 +22,7 @@ This page compiles the ones that we think are the most useful. If you find somet
 > [info]
 > Make sure to pay attention the licenses of any art you use! We'll be giving a talk on copyright in week 4.
 
-###Art
+####Art
 
 #####Free
 - [Sprite Hoard](https://www.makeschool.com/academy/art/set)
@@ -31,7 +31,7 @@ This page compiles the ones that we think are the most useful. If you find somet
 #####Paid
 - [Graphic River](http://graphicriver.net/category/game-assets)
 
-###Fonts
+####Fonts
 - [Seth Byrd - Fonts](http://www.sethbyrd.com/fonts)
 - [Font Squirrel](http://www.fontsquirrel.com/)
 
