@@ -1,5 +1,6 @@
 ---
-slug: Game-Design-Document
+title: "Game Design Document"
+slug: game-design-document
 ---
 
 #Game Design Documents
