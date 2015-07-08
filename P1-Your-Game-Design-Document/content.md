@@ -19,7 +19,7 @@ Create a new page in your project's Wiki and name it "GDD".
 
 Create five main sections: Objective, Gameplay Mechanics, Level Design, Technical, and MVP Milestones.
 
-Inside of Technical, create three subsections: Controls, Scenes, and Classes/CCBs.
+Inside of Technical, create three subsections: Controls, Scenes, and Classes/CSDs.
 
 Inside of MVP Milestones list each remaining week of development.
 
@@ -74,7 +74,7 @@ Only once you have a list of tasks that fit in 25 days should you start dividing
 #Wrapping Up
 Fill out the rest of the Technical section:
 
-Classes/CCBs: Based on what you learned about game architecture, list all the Swift classes and SpriteBuilder CCBs you will need to create your game. 
+Classes/CSDs: Based on what you learned about game architecture, list all the C++ classes and Cocos Studio CSDs you will need to create your game. 
 
 Read your GDD over to make sure everything makes sense. Edit as necessary.
 
