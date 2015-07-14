@@ -9,22 +9,20 @@ We will generate a Cocos Studio project, create a new temporary Cocos2d-x source
 
 #Generate the Project With Cocos Studio
 
-> [action]
-> 
 Open the Cocos App:
->
+
 ![image](cocosapp.png)
->
+
 Switch to the *Projects* tab and click new project:
->
+
 ![image](newProject.png)
->
+
 Create a new Cocos Project:
->
+
 ![image](newProjectType.png)
->
+
 Give your project a name. Set the Project Path to wherever you like, but remember where you set it, so you can find it later!
->
+
 ![image](newProjectSettings.png)
 
 Once the project is created, open
