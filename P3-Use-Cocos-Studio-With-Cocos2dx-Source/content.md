@@ -5,6 +5,8 @@ slug: integrate-cocos2dx-source-cocos-studio
 
 By default, a new Cocos Studio project includes Cocos2d-x as precompiled libs. However, it is much more useful to have the Cocos2d-x source code available in your project. This tutorial will explain how to replace the precompiled libs with the Cocos2d-x source in a Cocos Studio generated project.
 
+We will generate a Cocos Studio project, create a new temporary Cocos2d-x source project, copy the source files from the source project to the Cocos Studio project, then update the Cocos Studio project to build the Cocos2d-x libs from source.
+
 #Generate the Project With Cocos Studio
 
 > [action]
